@@ -23,5 +23,5 @@
       ]
     }
   },
-  "postCreateCommand": "[ ! -d \"node_modules\" ] && npm install"
+  "postCreateCommand": "npm install"
 }
